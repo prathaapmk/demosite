@@ -1,0 +1,5 @@
+com\demosite2\core\listeners\SimpleResourceListenerTest.class
+com\demosite2\core\servlets\SimpleServletTest.class
+com\demosite2\core\filters\LoggingFilterTest.class
+com\demosite2\core\models\HelloWorldModelTest.class
+com\demosite2\core\schedulers\SimpleScheduledTaskTest.class

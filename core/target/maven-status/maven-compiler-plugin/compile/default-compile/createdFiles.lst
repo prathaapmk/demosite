@@ -1,0 +1,11 @@
+com\demosite2\core\listeners\package-info.class
+com\demosite2\core\listeners\SimpleResourceListener.class
+com\demosite2\core\models\package-info.class
+com\demosite2\core\schedulers\SimpleScheduledTask$Config.class
+com\demosite2\core\servlets\package-info.class
+com\demosite2\core\servlets\SimpleServlet.class
+com\demosite2\core\filters\package-info.class
+com\demosite2\core\models\HelloWorldModel.class
+com\demosite2\core\schedulers\SimpleScheduledTask.class
+com\demosite2\core\filters\LoggingFilter.class
+com\demosite2\core\schedulers\package-info.class

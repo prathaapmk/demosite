@@ -1,0 +1,15 @@
+Manifest-Version: 1.0
+Created-By: Apache Jackrabbit FileVault - Package Maven Plugin 1.1.6
+Build-Jdk-Spec: 15
+Implementation-Title: Demo Site 2 - UI content
+Implementation-Version: 1.0.0-SNAPSHOT
+Content-Package-Type: content
+Content-Package-Id: com.demosite2:demosite2.ui.content:1.0.0-SNAPSHOT
+Content-Package-Description: UI content package for Demo Site 2
+Content-Package-Dependencies: com.demosite2:demosite2.ui.apps:1.0.0-SNAP
+ SHOT
+Content-Package-Dependencies-Locations: com.demosite2:demosite2.ui.apps:
+ 1.0.0-SNAPSHOT=maven:com.demosite2:demosite2.ui.apps:1.0.0-SNAPSHOT:zip
+Content-Package-Roots: /conf/demosite2,/content/dam/demosite2/asset.jpg,
+ /content/demosite2,/content/experience-fragments/demosite2
+

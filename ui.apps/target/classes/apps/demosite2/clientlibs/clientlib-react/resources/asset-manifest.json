@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/etc.clientlibs/demosite2/clientlibs/clientlib-react/resources/static/css/main.01227443.chunk.css",
+    "main.js": "/etc.clientlibs/demosite2/clientlibs/clientlib-react/resources/static/js/main.7995857d.chunk.js",
+    "main.js.map": "/etc.clientlibs/demosite2/clientlibs/clientlib-react/resources/static/js/main.7995857d.chunk.js.map",
+    "runtime-main.js": "/etc.clientlibs/demosite2/clientlibs/clientlib-react/resources/static/js/runtime-main.8c477a97.js",
+    "runtime-main.js.map": "/etc.clientlibs/demosite2/clientlibs/clientlib-react/resources/static/js/runtime-main.8c477a97.js.map",
+    "static/js/2.fc393910.chunk.js": "/etc.clientlibs/demosite2/clientlibs/clientlib-react/resources/static/js/2.fc393910.chunk.js",
+    "static/js/2.fc393910.chunk.js.map": "/etc.clientlibs/demosite2/clientlibs/clientlib-react/resources/static/js/2.fc393910.chunk.js.map",
+    "static/js/3.fdcfd73a.chunk.js": "/etc.clientlibs/demosite2/clientlibs/clientlib-react/resources/static/js/3.fdcfd73a.chunk.js",
+    "static/js/3.fdcfd73a.chunk.js.map": "/etc.clientlibs/demosite2/clientlibs/clientlib-react/resources/static/js/3.fdcfd73a.chunk.js.map",
+    "static/css/4.9c303500.chunk.css": "/etc.clientlibs/demosite2/clientlibs/clientlib-react/resources/static/css/4.9c303500.chunk.css",
+    "static/js/4.a7fee02f.chunk.js": "/etc.clientlibs/demosite2/clientlibs/clientlib-react/resources/static/js/4.a7fee02f.chunk.js",
+    "static/js/4.a7fee02f.chunk.js.map": "/etc.clientlibs/demosite2/clientlibs/clientlib-react/resources/static/js/4.a7fee02f.chunk.js.map",
+    "static/js/5.e8b0e9d3.chunk.js": "/etc.clientlibs/demosite2/clientlibs/clientlib-react/resources/static/js/5.e8b0e9d3.chunk.js",
+    "static/js/5.e8b0e9d3.chunk.js.map": "/etc.clientlibs/demosite2/clientlibs/clientlib-react/resources/static/js/5.e8b0e9d3.chunk.js.map",
+    "static/js/6.a534198b.chunk.js": "/etc.clientlibs/demosite2/clientlibs/clientlib-react/resources/static/js/6.a534198b.chunk.js",
+    "static/js/6.a534198b.chunk.js.map": "/etc.clientlibs/demosite2/clientlibs/clientlib-react/resources/static/js/6.a534198b.chunk.js.map",
+    "index.html": "/etc.clientlibs/demosite2/clientlibs/clientlib-react/resources/index.html",
+    "precache-manifest.21c6936d72caa6f562ab52ad6d581423.js": "/etc.clientlibs/demosite2/clientlibs/clientlib-react/resources/precache-manifest.21c6936d72caa6f562ab52ad6d581423.js",
+    "service-worker.js": "/etc.clientlibs/demosite2/clientlibs/clientlib-react/resources/service-worker.js",
+    "static/css/4.9c303500.chunk.css.map": "/etc.clientlibs/demosite2/clientlibs/clientlib-react/resources/static/css/4.9c303500.chunk.css.map",
+    "static/css/main.01227443.chunk.css.map": "/etc.clientlibs/demosite2/clientlibs/clientlib-react/resources/static/css/main.01227443.chunk.css.map",
+    "static/js/2.fc393910.chunk.js.LICENSE.txt": "/etc.clientlibs/demosite2/clientlibs/clientlib-react/resources/static/js/2.fc393910.chunk.js.LICENSE.txt",
+    "static/js/3.fdcfd73a.chunk.js.LICENSE.txt": "/etc.clientlibs/demosite2/clientlibs/clientlib-react/resources/static/js/3.fdcfd73a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8c477a97.js",
+    "static/js/2.fc393910.chunk.js",
+    "static/css/main.01227443.chunk.css",
+    "static/js/main.7995857d.chunk.js"
+  ]
+}

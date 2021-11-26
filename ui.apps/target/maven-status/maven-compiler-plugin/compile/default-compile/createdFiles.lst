@@ -1,0 +1,9 @@
+org\apache\sling\scripting\sightly\apps\demosite2\components\xfpage\body__002e__html.class
+org\apache\sling\scripting\sightly\apps\demosite2\components\page\customfooterlibs__002e__html.class
+org\apache\sling\scripting\sightly\apps\demosite2\components\xfpage\customfooterlibs__002e__html.class
+org\apache\sling\scripting\sightly\apps\demosite2\components\commerce\catalogpage\customfooterlibs__002e__html.class
+org\apache\sling\scripting\sightly\apps\demosite2\components\xfpage\customheaderlibs__002e__html.class
+org\apache\sling\scripting\sightly\apps\demosite2\components\commerce\catalogpage\customheaderlibs__002e__html.class
+org\apache\sling\scripting\sightly\apps\demosite2\clientlibs\clientlib__002d__react\resources\index__002e__html.class
+org\apache\sling\scripting\sightly\apps\demosite2\components\page\customheaderlibs__002e__html.class
+org\apache\sling\scripting\sightly\apps\demosite2\components\helloworld\helloworld__002e__html.class

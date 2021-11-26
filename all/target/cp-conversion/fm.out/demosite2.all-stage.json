@@ -1,0 +1,15 @@
+{
+  "id":"com.demosite2:demosite2.all:slingosgifeature:stage:1.0.0-SNAPSHOT",
+  "configurations":  {
+    "org.apache.sling.commons.log.LogManager.factory.config~demosite2":    {
+      "org.apache.sling.commons.log.pattern":"{0,date,yyyy-MM-dd HH:mm:ss.SSS} {4} [{3}] {5}",
+      "org.apache.sling.commons.log.names":[
+        "com.demosite2"
+      ],
+      "org.apache.sling.commons.log.level":"warn",
+      "org.apache.sling.commons.log.file":"logs/error.log",
+      "org.apache.sling.commons.log.additiv":"true",
+      ":configurator:content-package-origins":"com.demosite2:demosite2.all:1.0.0-SNAPSHOT|com.demosite2:demosite2.ui.config:1.0.0-SNAPSHOT"
+    }
+  }
+}

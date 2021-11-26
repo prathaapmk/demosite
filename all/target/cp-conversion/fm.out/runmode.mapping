@@ -1,0 +1,7 @@
+#File edited by the Apache Sling Content Package to Sling Feature converter
+#Thu Nov 25 08:09:10 IST 2021
+prod=demosite2.all-prod.json
+stage=demosite2.all-stage.json
+author=demosite2.all-author.json
+publish=demosite2.all-publish.json
+(default)=demosite2.all.json

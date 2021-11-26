@@ -1,0 +1,14 @@
+Manifest-Version: 1.0
+Created-By: Apache Jackrabbit FileVault - Package Maven Plugin 1.1.6
+Build-Jdk-Spec: 15
+Implementation-Title: Demo Site 2 - UI apps
+Implementation-Version: 1.0.0-SNAPSHOT
+Content-Package-Type: application
+Content-Package-Id: com.demosite2:demosite2.ui.apps:1.0.0-SNAPSHOT
+Content-Package-Description: UI apps package for Demo Site 2
+Content-Package-Roots: /apps/demosite2/clientlibs,/apps/demosite2/compon
+ ents,/apps/demosite2/i18n
+Import-Package: com.adobe.aem.spa.project.core.models;version="[1.1.0,2.
+ 0.0)",com.demosite2.core.models;version="[1.0.0,2.0.0)",org.apache.slin
+ g.scripting.sightly;version="[2.0.0,3.0.0)"
+

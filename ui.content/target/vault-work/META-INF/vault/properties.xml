@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Demo Site 2 - UI content</comment>
+<entry key="allowIndexDefinitions">false</entry>
+<entry key="acHandling">merge</entry>
+<entry key="dependencies-locations">com.demosite2:demosite2.ui.apps:1.0.0-SNAPSHOT=maven:com.demosite2:demosite2.ui.apps:1.0.0-SNAPSHOT:zip</entry>
+<entry key="created">2021-11-25T03:03:23.274Z</entry>
+<entry key="groupId">com.demosite2</entry>
+<entry key="description">UI content package for Demo Site 2</entry>
+<entry key="version">1.0.0-SNAPSHOT</entry>
+<entry key="packageType">content</entry>
+<entry key="requiresRoot">false</entry>
+<entry key="dependencies">com.demosite2:demosite2.ui.apps:1.0.0-SNAPSHOT</entry>
+<entry key="cloudManagerTarget">none</entry>
+<entry key="name">demosite2.ui.content</entry>
+<entry key="artifactId">demosite2.ui.content</entry>
+<entry key="group">com.demosite2</entry>
+</properties>

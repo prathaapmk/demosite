@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Demo Site 2 - All</comment>
+<entry key="allowIndexDefinitions">false</entry>
+<entry key="created">2021-11-25T02:39:02.616Z</entry>
+<entry key="groupId">com.demosite2</entry>
+<entry key="name">demosite2.all</entry>
+<entry key="description">All content package for Demo Site 2</entry>
+<entry key="artifactId">demosite2.all</entry>
+<entry key="version">1.0.0-SNAPSHOT</entry>
+<entry key="packageType">container</entry>
+<entry key="requiresRoot">false</entry>
+<entry key="group">com.demosite2</entry>
+</properties>
